@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Books = () => {
+const TimeLine = () => {
     return (
         <div>
-            Books
+            timeline
         </div>
     );
 };
 
-export default Books;
+export default TimeLine;
